@@ -44,8 +44,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Davidmide02/3-column-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/Davidmide02/3-column-component.git)
+- Live Site URL: [Live site URL here](https://davidmide02.github.io/3-column-component/)
 
 ## My process
 I mapped out how the layout will look like
